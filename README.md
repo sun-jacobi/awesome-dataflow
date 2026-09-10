@@ -9,6 +9,7 @@
 + [Neura: A Unified Framework for Hierarchical and Adaptive CGRAs](https://dl.acm.org/doi/10.1145/3779212.3790193)
 + [Streaming Tensor Programs: A Streaming Abstraction for Dynamic Parallelism](https://dl.acm.org/doi/10.1145/3779212.3790229)
 + [CODO: An Automated Compiler for Comprehensive Dataflow Optimization](https://arxiv.org/abs/2604.12618)
++ [Plasticine: A Reconfigurable Architecture for Parallel Patterns (ISCA 2017)](https://dl.acm.org/doi/10.1145/3079856.3080256)
 
 ## Architecture
 + [TCP: A Tensor Contraction Processor for AI Workloads Industrial Product](https://ieeexplore.ieee.org/document/10609575)
@@ -17,6 +18,9 @@
 + [Think Fast: A Tensor Streaming Processor (TSP) for Accelerating Deep Learning Workloads](https://ieeexplore.ieee.org/document/9138986)
 + [In-Datacenter Performance Analysis of a Tensor Processing Unit](https://dl.acm.org/doi/10.1145/3079856.3080246)
 + [MN-Core 2 White Paper](https://projects.preferred.jp/mn-core/assets/MN-Core_2_whitepaper_en.pdf)
+
+## Application
++ [SambaNova SN40L: Scaling the AI Memory Wall with Dataflow and Composition of Experts](https://arxiv.org/abs/2405.07518)
 
 
 
