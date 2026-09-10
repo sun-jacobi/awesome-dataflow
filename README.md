@@ -8,7 +8,7 @@
 + [An MLIR Lowering Pipeline for Stencils at Wafer-Scale](https://arxiv.org/abs/2601.17754)
 + [Neura: A Unified Framework for Hierarchical and Adaptive CGRAs](https://dl.acm.org/doi/10.1145/3779212.3790193)
 + [Streaming Tensor Programs: A Streaming Abstraction for Dynamic Parallelism](https://dl.acm.org/doi/10.1145/3779212.3790229)
-
++ [CODO: An Automated Compiler for Comprehensive Dataflow Optimization](https://arxiv.org/abs/2604.12618)
 
 ## Architecture
 + [TCP: A Tensor Contraction Processor for AI Workloads Industrial Product](https://ieeexplore.ieee.org/document/10609575)
