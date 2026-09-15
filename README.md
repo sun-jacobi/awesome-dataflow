@@ -10,6 +10,7 @@
 + [Streaming Tensor Programs: A Streaming Abstraction for Dynamic Parallelism](https://dl.acm.org/doi/10.1145/3779212.3790229)
 + [CODO: An Automated Compiler for Comprehensive Dataflow Optimization](https://arxiv.org/abs/2604.12618)
 + [Plasticine: A Reconfigurable Architecture for Parallel Patterns (ISCA 2017)](https://dl.acm.org/doi/10.1145/3079856.3080256)
++ [Dato: A Task-Based Programming Model for Dataflow Accelerators](https://arxiv.org/abs/2509.06794)
 
 ## Architecture
 + [TCP: A Tensor Contraction Processor for AI Workloads Industrial Product](https://ieeexplore.ieee.org/document/10609575)
